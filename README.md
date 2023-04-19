@@ -1,9 +1,18 @@
-# hello-world
-This is my first GitHub repository
+#Hello-world project
 
-#H1
-**bold text**
-'This is new code'
+##Organising information with tables
+|To-do list | Description|
+|-----------|------------|
+|1| University Lectures of Ocaml & OOP|
+|2| Study books |
+|3| A-levels |
 
-##H2
-I need to highlight these ==very important words==.
+##Tick boxes
+- My aim for this Summer
+[x] Learn to use Github / Git / GitCLI
+[] Study all exams
+[] Study Java / Python / C++ etc.
+[] Study A level
+[] Study future Year 2 Sem 1 & 2 courses
+
+<!------- Time to work hard in order to protect my sister / dad / mom ------->
