@@ -1,11 +1,22 @@
 #Hello-world project
 
 ##Organising information with tables
-|To-do list | Description|
-|-----------|------------|
-|1| University Lectures of Ocaml & OOP|
-|2| Study books |
-|3| A-levels |
+|To-do list | Description | When to finish |
+|:---:|:---| ---:|
+|1| University Lectures of Ocaml & OOP| April |
+|2| Study books | May |
+|3| A-levels | July |
+
+#Learning to add a collapse section
+
+<details>
+<summary>Working on a collapse section </summary>
+- Firstly, A collapse section requires a lot.
+- Secondly, it requires even more.
+- Thirdly, It requieres all.
+</details>
+
+<!----Just kidding------>
 
 ##Tick boxes
 - My aim for this Summer
